@@ -4,6 +4,8 @@
 >
 > 技术栈：vue.js + vue-cli + vuex +vue-router + axios + ES6 + elementUI
 >
+> 预览地址：https://mingzihhh.github.io/vue-cnode/dist/#/
+>
 > 实现功能：
 >
 > - 首页列表，分页加载
